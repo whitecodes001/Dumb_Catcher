@@ -1,0 +1,10 @@
+[
+    {
+        "TOKEN": "YOUR_DISCORD_TOKEN_1",
+        "GUILD_ID": "YOUR_GUILD_ID_1"
+    },
+    {
+        "TOKEN": "YOUR_DISCORD_TOKEN_2",
+        "GUILD_ID": "YOUR_GUILD_ID_2"
+    }
+]
